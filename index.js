@@ -10,6 +10,10 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(cors());
 
+// Routes
+const productRoute = require("./routes/products");
+app.use("/products", productRoute);
+
 // Database connection
 mongoose.connect(
   process.env.DB_CONNECTION,
