@@ -15,9 +15,10 @@ router.get("/", async (req, res) => {
 // Save Product
 router.post("/", async (req, res) => {
   const product = new Product({
-    productId: req.body.productId,
+    id: req.body.id,
     name: req.body.name,
-    price: req.body.price
+    price: req.body.price,
+    image: req.body.image
   });
 
   try {

@@ -13,6 +13,8 @@ app.use(cors());
 // Routes
 const productRoute = require("./routes/products");
 app.use("/products", productRoute);
+const collectionRoute = require("./routes/collections");
+app.use("/collections", collectionRoute);
 
 // Database connection
 mongoose.connect(
