@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5e148c942d1d04311c553fbc"},"id":"1","title":"Offers on Makeup","description":"Look hot and happening","image":"img1.jpg","background":"3.png"}
+{"_id":{"$oid":"5e148c942d1d04311c553fbd"},"id":"2","title":"Groceries","description":"Daraz DMart Deals","image":"img2.jpg","background":"1.png"}
+{"_id":{"$oid":"5e148c942d1d04311c553fbe"},"id":"3","title":"World Tour","description":"Be Travel Ready","image":"img3.jpg","background":"2.png"}
+{"_id":{"$oid":"5e148c942d1d04311c553fbf"},"id":"4","title":"Groceries","description":"Daraz DMart Deals","image":"img4.jpg","background":"3.png"}
+{"_id":{"$oid":"5e148c942d1d04311c553fc0"},"id":"5","title":"World Tour","description":"Be Travel Ready","image":"img5.jpg","background":"4.png"}
+{"_id":{"$oid":"5e148c942d1d04311c553fc1"},"id":"6","title":"Refresh Your Body & Mind","description":"Bath, Body & Soul","image":"img6.jpg","background":"1.png"}
+{"_id":{"$oid":"5e148c942d1d04311c553fc2"},"id":"7","title":"Picture perfect memories","description":"Capture sweet memories ","image":"img3.jpg","background":"2.png"}
