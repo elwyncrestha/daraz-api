@@ -15,6 +15,8 @@ const productRoute = require("./routes/products");
 app.use("/products", productRoute);
 const collectionRoute = require("./routes/collections");
 app.use("/collections", collectionRoute);
+const userRoute = require("./routes/users");
+app.use("/users", userRoute);
 
 // Database connection
 mongoose.connect(
